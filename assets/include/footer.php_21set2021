@@ -1,0 +1,138 @@
+  <footer id="footer">
+    <div id="footer_top" class="row">
+      <a id="logo" href="<?php echo Configuracao::getBaseUrl();?>home\">
+        <img src="<?php echo Configuracao::getBaseUrl();?>assets/logo/logo_v2.png" alt="Novo Atacarejo brand logo" />
+      </a>
+      <div id="footer_nav">
+        <div class="col">
+          <h3>Somos novo</h3>
+          <div class="footer_links">
+            <a href="<?php echo Configuracao::getBaseUrl();?>oferta/">Ofertas</a>
+            <a href="<?php echo Configuracao::getBaseUrl();?>cartao/">Novocard</a>
+            <a href="<?php echo Configuracao::getBaseUrl();?>cadastro/">Meu cadastro</a>
+          </div>
+        </div>
+        <div class="col">
+          <h3>Institucional</h3>
+          <div class="footer_links">
+            <a href="<?php echo Configuracao::getBaseUrl();?>quem-somos/">Quem somos</a>
+            <a href="<?php echo Configuracao::getBaseUrl();?>loja/">Nossas lojas</a>
+            <a href="<?php echo Configuracao::getBaseUrl();?>noticia/">Noticias</a>
+          </div>
+        </div>
+        <div class="col">
+          <h3>Fale Conosco</h3>
+          <div class="footer_links">
+            <a href="<?php echo Configuracao::getBaseUrl();?>contato/">Contato</a>
+            <a href="<?php echo Configuracao::getBaseUrl();?>contato/#trabalheconosco">Trabalhe conosco</a>
+            <a href="<?php echo Configuracao::getBaseUrl();?>atendimento/">Televendas atacado</a>
+          </div>
+        </div>
+      </div>
+      <div id="pagamento" class="col">
+        <div id="newsletter">
+          <div>
+            <h4>
+              Receba nossas
+              <br />
+              ofertas por email
+            </h4>
+            <a class="footer_button" href="../oferta/">Quero receber</a>
+          </div>
+        </div>
+        <div id="formas_pagamento">
+          <h4>Formas de pagamento</h4>
+          <img src="<?php echo Configuracao::getBaseUrl();?>assets/img/formapagamento.png" alt="" />
+        </div>
+      </div>
+    </div>
+    <div id="social">
+      <div id="social_icons">
+        <h4>Siga nossas redes sociais</h4>
+        <div id="icons">
+          <a href="https://www.facebook.com/novoatacarejo" target="_blank">
+            <img src="<?php echo Configuracao::getBaseUrl();?>assets/icons/facebook_white.png" alt="Facebook icon" />
+          </a>
+          <a href="https://instagram.com/novoatacarejo?igshid=w1azz7a2ibb3" target="_blank">
+            <img src="<?php echo Configuracao::getBaseUrl();?>assets/icons/instagram_white.png" alt="Instagram icon" />
+          </a>
+          <a href="https://www.youtube.com/channel/UCmpHHZSduDYRN_SAmdMKBYQ" target="_blank">
+            <img src="<?php echo Configuracao::getBaseUrl();?>assets/icons/youtube_white.png" alt="Youtube icon" />
+          </a>
+          <a href="https://www.linkedin.com/company/novoatacarejo" target="_blank">
+            <img src="<?php echo Configuracao::getBaseUrl();?>assets/icons/linkedin_white.png" alt="Linkedin icon" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="copyright">
+      <h4>Novo Atacarejo | Todos os direitos reservados</h4>
+      <img src="<?php echo Configuracao::getBaseUrl();?>assets/logo/pulltech.png" alt="" />
+    </div>
+  </footer>
+  <div id="cookies_container" class="box-cookies hide">
+    <div>
+      <p>
+        Utilizamos seus dados para oferecer uma experiência mais relevante ao
+        analisar e personalizar conteúdos e anúncios em nossa plataforma e em
+        serviços de terceiros. Ao navegar pelo site, você autoriza o Novo
+        Atacarejo a coletar estes dados e utilizá-los para estes fins. Consulte
+        nossa <a href="../politicas/">Política de Privacidade.</a>
+      </p>
+      <button class="btn-cookies">Entendi!</button>
+    </div>
+  </div>
+  </div>
+<script type='text/javascript' src='<?php echo Configuracao::getBaseUrl();?>cms/assets/scripts/jquery-2.0.3.js'></script>
+<script>
+$.getJSON("https://ipinfo.io/<?php echo $ip;?>?token=b35b30d7ed9049", function(dados) {
+
+if (!("erro" in dados)) {
+    var loc = dados.loc.split(",");
+
+    $.post( "../assets/xt/xt.loja.php",{
+    
+        lat : loc[0],
+        lon : loc[1]
+        
+    },
+    function( arrRetorno, textStatus )
+    {
+        
+        if(arrRetorno.strTipo=='success'){
+        
+            $("#bold").html(arrRetorno.nomeLoja);
+            
+        } 
+                    
+    },"json");
+
+} 
+
+});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V3Q4DEG2D3"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-V3Q4DEG2D3');
+</script>
+<script>
+(() => {
+    if (!localStorage.pureJavaScriptCookies) {
+        document.querySelector(".box-cookies").classList.remove('hide');
+    }
+    
+    const acceptCookies = () => {
+        document.querySelector(".box-cookies").classList.add('hide');
+        localStorage.setItem("pureJavaScriptCookies", "accept");
+    };
+    
+    const btnCookies = document.querySelector(".btn-cookies");
+    
+    btnCookies.addEventListener('click', acceptCookies);
+})();
+</script>

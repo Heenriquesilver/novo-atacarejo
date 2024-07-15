@@ -1,0 +1,23 @@
+[22-Feb-2021 08:48:07 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:08:25 America/Sao_Paulo] PHP Notice:  Undefined variable: classe in /home/tchateau/novo.taciochateau.com.br/cms/tiposdeoferta/index.php on line 101
+[22-Feb-2021 11:08:25 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:12:18 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 2
+[22-Feb-2021 11:12:18 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:12:29 America/Sao_Paulo] PHP Notice:  Undefined variable: classe in /home/tchateau/novo.taciochateau.com.br/cms/tiposdeoferta/index.php on line 101
+[22-Feb-2021 11:12:29 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:12:41 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 2
+[22-Feb-2021 11:12:41 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:12:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:12:51 America/Sao_Paulo] PHP Notice:  Undefined variable: classe in /home/tchateau/novo.taciochateau.com.br/cms/tiposdeoferta/index.php on line 101
+[22-Feb-2021 11:12:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 11:12:54 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 2
+[22-Feb-2021 11:12:54 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:02:44 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:43:38 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:43:42 America/Sao_Paulo] PHP Notice:  Undefined variable: classe in /home/tchateau/novo.taciochateau.com.br/cms/tiposdeoferta/index.php on line 101
+[22-Feb-2021 12:43:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:50:52 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:50:54 America/Sao_Paulo] PHP Notice:  Undefined variable: classe in /home/tchateau/novo.taciochateau.com.br/cms/tiposdeoferta/index.php on line 99
+[22-Feb-2021 12:50:54 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:50:57 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 2
+[22-Feb-2021 12:50:57 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203

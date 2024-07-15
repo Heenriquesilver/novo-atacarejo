@@ -1,0 +1,2 @@
+[16-Feb-2021 16:23:58 America/Sao_Paulo] PHP Notice:  Undefined variable: objLojaAtual in /home/tchateau/novo.taciochateau.com.br/atendimento/index.php on line 22
+[16-Feb-2021 16:23:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function getLogradouro() on null in /home/tchateau/novo.taciochateau.com.br/atendimento/index.php on line 22

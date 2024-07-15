@@ -1,0 +1,387 @@
+[11-Feb-2021 16:59:09 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[15-Feb-2021 18:27:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:25:27 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:25:34 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:45 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 09:46:55 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:46:57 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:49:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 09:50:15 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 10:10:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 10:11:02 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 10:11:14 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 10:11:17 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 11:17:41 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 11:17:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 11:18:23 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 211
+[16-Feb-2021 13:30:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 15:10:48 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:24:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[16-Feb-2021 17:25:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 17:25:06 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 19:13:53 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[16-Feb-2021 19:13:53 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 19:13:53 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 19:13:53 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 19:13:53 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 10
+[16-Feb-2021 19:13:53 America/Sao_Paulo] PHP Fatal error:  Call to undefined method ControladorLoja::contarPorEmpresa() in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 14
+[16-Feb-2021 19:13:57 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 19:13:59 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[16-Feb-2021 19:14:01 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:16 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[17-Feb-2021 12:59:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[17-Feb-2021 12:59:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:22 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:22 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 10
+[17-Feb-2021 12:59:22 America/Sao_Paulo] PHP Fatal error:  Call to undefined method ControladorLoja::contarPorEmpresa() in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 14
+[17-Feb-2021 12:59:25 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:29 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 12:59:32 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 15:53:56 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 16:59:56 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 17:00:30 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[17-Feb-2021 17:00:31 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 16:59:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 17:12:12 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 17:27:38 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:17:22 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:23:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:27:18 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:27:32 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:11:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:18:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 10:43:23 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[19-Feb-2021 10:43:23 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 10:43:23 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 10:43:23 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 10:43:23 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 10
+[19-Feb-2021 10:43:23 America/Sao_Paulo] PHP Fatal error:  Call to undefined method ControladorLoja::contarPorEmpresa() in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 14
+[19-Feb-2021 10:43:29 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:44 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 11:59:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 12:00:14 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 12:11:13 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 12:11:21 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 12:11:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 12:11:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 12:11:53 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 14:15:19 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 14:15:30 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:14:58 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[19-Feb-2021 16:16:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:16:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:16:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:17:08 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:17:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:17:43 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:45:47 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 16:45:54 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:38:33 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:38:34 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:38:34 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:12:13 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:12:43 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:12:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:13:03 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:13:15 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:36:00 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:36:02 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:42:12 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:42:20 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 15:48:27 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 16:10:08 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:46 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[23-Feb-2021 09:23:50 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:34:45 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:37:05 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:37:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:37:39 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:38:02 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:38:04 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:38:26 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:38:29 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:38:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 14:38:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 15:09:10 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 15:30:12 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 15:36:37 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:00:02 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[23-Feb-2021 17:00:02 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:00:02 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:00:02 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:00:02 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 10
+[23-Feb-2021 17:00:02 America/Sao_Paulo] PHP Fatal error:  Call to undefined method ControladorLoja::contarPorEmpresa() in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 14
+[23-Feb-2021 17:00:10 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:00:13 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:18:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:39:17 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[23-Feb-2021 17:39:17 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:39:17 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:39:17 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 17:39:17 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 10
+[23-Feb-2021 17:39:17 America/Sao_Paulo] PHP Fatal error:  Call to undefined method ControladorLoja::contarPorEmpresa() in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 14
+[23-Feb-2021 18:04:38 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[23-Feb-2021 18:04:38 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 18:04:38 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 18:04:38 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[23-Feb-2021 18:04:38 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 10
+[23-Feb-2021 18:04:38 America/Sao_Paulo] PHP Fatal error:  Call to undefined method ControladorLoja::contarPorEmpresa() in /home/tchateau/novo.taciochateau.com.br/cms/loja/index.php on line 14

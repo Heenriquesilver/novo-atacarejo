@@ -1,0 +1,130 @@
+#brand{
+    background-color: #ffffff; 
+}
+
+#brand > img {
+    width: 120px;
+    height: 57px;
+    margin: 23px 66px 16px 277px;
+}
+
+#location {
+    background-color: #ffc629;
+}
+
+#location > p {
+    width: 201px;
+    height: 39px;
+    color: #454545;
+    font-size: 16px;
+    line-height: 96px;
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+    padding: 0 265px 0 15px;
+    margin: -10px;
+}
+
+#location > img {
+    width: 24px;
+    height: 34px;
+    line-height: 96px;
+    padding: 29px 0 33px 33px;
+}
+
+#banner {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    color: #454545;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#center {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    color: #454545;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#cartao {
+    width: 100%;
+    height: 100%;
+    background-image: url("../../img/banner-cartoes-novo-home.jpg");
+}
+
+#rodape {
+    width: 100%;
+    height: 100%;
+    background-color: #2764af;
+    color: #454545;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 99px;
+}
+
+#social {
+    width: 100%;
+    height: 100%;
+    background-color: #1a4f90;
+    padding-bottom: 91px;
+}
+
+#copyright {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+#mensagem{
+    width: 100%;
+    height: 100%;
+    background-color: #fafafa;
+}
+
+#middle-page{
+    background-color: #ffffff;
+}
+
+#title-page{
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+    padding: 117px 0 0 278px;
+}
+
+#form-page{
+    width: 65%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    padding: 76px 0 0 270px;
+}   
+
+#info-cartao {
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+#map {
+    height: 100%;
+    background-color: #ffffff;
+}
+
+#topo{
+    width: 100%;
+    height: 100%;
+}
+
+#middle-offer {
+    height: 100%;
+    background-color: #ffffff;
+}

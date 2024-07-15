@@ -1,0 +1,161 @@
+<?php
+include_once("../assets/include/header.php");
+if (Util::isMobile($_SERVER["HTTP_USER_AGENT"])) {
+  header("Location: " . Configuracao::getBaseUrl() . "contato/mobile.php");
+}
+?>
+<div class="col">
+  <div id="contato">
+    <h1>Contato</h1>
+    <p>
+      Prezamos pela sua opinião sobre as nossas lojas e os nossos serviços.
+      <br />
+      <br />
+      Por isso, utilize esse canal direto para informações, elogios, sugestões
+      e registro de insatisfações.
+    </p>
+    <form class="col" action="" method="post">
+      <div class="row">
+        <div class="form_input">
+          <label for="name">Nome</label>
+          <input type="text" name="nome" id="nome" class="sucess" />
+        </div>
+        <div class="form_input" id="m_left">
+          <label for="email">E-mail</label>
+          <input type="email" name="email" id="email" placeholder="exemplo@dominio.com" class="failure" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="form_input">
+          <label for="tel">Telefone</label>
+          <input type="text" name="telefone" id="telefone" placeholder="+(xx)xxxxxxxxx" onkeypress="return mask(this, event,'(##) #########)')" />
+        </div>
+        <div class="form_input" id="m_left">
+          <label for="subject">Assunto</label>
+          <input type="text" name="assunto" id="assunto" />
+        </div>
+      </div>
+      <div class="form_input" id="textarea">
+        <label for="message">Escreva aqui sua mensagem:</label>
+        <textarea name="mensagem" id="mensagem"></textarea>
+      </div>
+    </form>
+    <button href="/" class="contato_button" onclick="contato();">Enviar</button>
+  </div>
+  <div id="trabalheconosco">
+    <h1>Trabalhe conosco</h1>
+    <p>
+      O Novo Atacarejo vem promovendo maior qualidade de vida para a família
+      <br />
+      <br />
+      pernambucana e gerando mais de mil empregos diretos e três mil
+      indiretos!
+    </p>
+    <form action="" method="post" class="col">
+      <input type="hidden" name="arquivo-trabalhe" id="arquivo-trabalhe" />
+      <div class="row">
+        <div class="col form_input">
+          <label for="name">Nome</label>
+          <input type="text" name="nome-trabalhe" id="nome-trabalhe" />
+        </div>
+        <div class="col form_input" id="m_left">
+          <label for="email">E-mail</label>
+          <input type="email" name="email-trabalhe" id="email-trabalhe" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col form_input">
+          <label for="tel">Telefone</label>
+          <input type="text" name="telefone-trabalhe" id="telefone-trabalhe" placeholder="+(xx)xxxxxxxxx" onkeypress="return mask(this, event,'(##) #########)')" />
+        </div>
+        <div class="col form_input" id="m_left">
+          <label for="state">Estado</label>
+          <input type="text" name="estado-trabalhe" id="estado-trabalhe" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col form_input">
+          <label for="city">Cidade</label>
+          <input type="text" name="cidade-trabalhe" id="cidade-trabalhe" />
+        </div>
+        <div class="col form_input" id="m_left">
+          <label for="vocation">Função</label>
+          <input type="text" name="funcao-trabalhe" id="funcao-trabalhe" />
+        </div>
+      </div>
+      <div>
+        <div class="col form_select">
+          <label for="store--select">Loja</label>
+          <select name="loja-trabalhe" id="loja-trabalhe">
+            <option selected="true" disabled="disabled">Escolha a Unidade</option>
+            <option value="rh.loja03@novoatacarejo.com">Arcoverde</option>
+            <option value="rh.loja05@novoatacarejo.com">Bongi</option>
+            <option value="rh.loja01@novoatacarejo.com">Carpina</option>
+            <option value="envio.site@novoatacarejo.com">Centro de Distribuição(Jaboatão)</option>
+            <option value="envio.site@novoatacarejo.com">Escritório(Matriz)</option>
+            <option value="rh.loja07@novoatacarejo.com">Goiana</option>
+            <option value="rh.loja08@novoatacarejo.com">Gravata</option>
+            <option value="rh.loja06@novoatacarejo.com">Paulista</option>
+            <option value="rh.loja04@novoatacarejo.com">Santa Cruz do Capibaribe</option>
+            <option value="rh.loja02@novoatacarejo.com">Vitória de Santo Antão</option>
+          </select>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col" id="file_form_input">
+          <label id="cvTitle" class="m_bot">Currículo</label>
+          <label for="input-file" id="input_file"> Anexe o currículo em PDF </label>
+          <input type="file" id="input-file" data-url="xt/xt.cadastrarArquivo.php" />
+        </div>
+        <div class="col" style="position: relative">
+          <div id="help" class="row m_left">
+            <img src="../assets/icons/help.png" alt="" />
+            <p>Preciso de ajuda</p>
+            <script>
+              if (typeof document !== "undefined") {
+                const i = document.getElementById("help");
+                i.onclick = function() {
+                  alert(
+                    "Utilize arquivos .pdf ou .doc com no máximo 1mb de tamanho."
+                  );
+                };
+              }
+            </script>
+          </div>
+        </div>
+      </div>
+      <button href="/" class="contato_button" onclick="trabalheConosco();">Enviar</button>
+    </form>
+  </div>
+</div>
+<?php
+include_once("../assets/include/footer.php");
+?>
+<script type='text/javascript' src='<?php echo Configuracao::getBaseUrl(); ?>cms/assets/scripts/common.js'></script>
+<script type="text/javascript" src='<?php echo Configuracao::getBaseUrl(); ?>cms/assets/scripts/jquery.ui.widget.js'></script>
+<script type="text/javascript" src='<?php echo Configuracao::getBaseUrl(); ?>cms/assets/scripts/jquery.iframe-transport.js'></script>
+<script type='text/javascript' src='<?php echo Configuracao::getBaseUrl(); ?>cms/assets/scripts/jquery.fileupload.js'></script>
+<script type="text/javascript" src='javascript/geral.js?id=<?php echo date("YmdHis"); ?>'></script>
+<script type="text/javascript">
+  function Reset() {
+    $('#progress .progress-bar').css('width', '0%');
+  }
+
+  $(function() {
+    $('#input-file').fileupload({
+      dataType: 'json',
+      done: function(e, data) {
+        if (data.result.strTipo == "success") {
+          $("#arquivo-trabalhe").attr("value", data.result.retornoUpload);
+          alert("Arquivo anexado com sucesso!");
+        } else {
+          alert(data.result.strMensagem);
+        }
+      },
+      progressall: function(e, data) {
+        var progress = parseInt(data.loaded / data.total * 100, 10);
+        $('#progress .progress-bar').css('width', progress + '%');
+      }
+    });
+  });
+</script>

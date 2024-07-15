@@ -1,0 +1,164 @@
+#menu {
+  width: 46.64%;
+  height: auto;
+  font-family: "SemiBold";
+  display: inline-block;
+  text-align: center;
+}
+
+#menu > ul > li {
+  width: 15%;
+  height: auto;
+  display: inline-block;
+  text-align: center;
+}
+
+#menu > ul > li > a {
+  text-decoration: none;
+  color: #ffffff;
+  line-height: 96px;
+  font-size: 0.8vw;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#img-banner > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-oferta > img {
+  width: 100%;
+  height: auto;
+}
+
+#item-fique-por-dentro > img {
+  width: 100%;
+  height: auto;
+}
+
+#button-fique-por-dentro > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-news > img {
+  width: 100%;
+  height: 20vw;
+  max-width: none;
+  min-width: 100%;
+}
+
+#img-stores > img {
+  width: 100%;
+  height: auto;
+}
+
+#cartao-right-side > img {
+  width: 75.95%;
+  height: auto;
+}
+
+#image-quem-somos > img {
+  width: 100%;
+  height: auto;
+}
+
+#image-map > img {
+  width: 100%;
+  height: auto;
+}
+
+#topo > img {
+  position: relative;
+  top: -2vh;
+  width: 100%;
+  height: auto;
+}
+
+#img-offer {
+  width: 60vw;
+  height: 86vh;
+  margin-top: 4vh;
+  margin-left: 26vw;
+}
+
+#img-rodape > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-forma-pagamento > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-button-offer > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-mensagem > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-pin-service > img {
+  width: 100%;
+  height: auto;
+  margin-top: -8vw;
+}
+
+#img-whatsapp-service-personal > img {
+  width: 100%;
+  height: auto;
+}
+
+#button-input-newsletter-service > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-pin-store > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-whatsapp-store > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-phone-store > img {
+  width: 100%;
+  height: auto;
+}
+
+#facebook-news > img {
+  width: 100%;
+  height: auto;
+}
+
+#whatsapp-news > img {
+  width: 100%;
+  height: auto;
+}
+
+#twitter-news > img {
+  width: 100%;
+  height: auto;
+}
+
+#email-news > img {
+  width: 100%;
+  height: auto;
+}
+
+#img-button-news > img {
+  width: 100%;
+  height: auto;
+}

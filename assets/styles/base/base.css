@@ -1,0 +1,291 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#container {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 1441px) {
+  #container {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
+
+body {
+  line-height: 1;
+  font-family: "Montserrat";
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+header {
+  width: 100%;
+  height: 8vh;
+  grid-area: header;
+  display: flex;
+}
+
+@media screen and (max-width: 1366px) and (max-height: 670px) {
+  #header {
+    margin-bottom: -0.2vw;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #header {
+    margin-bottom: -0.2vw;
+  }
+}
+
+nav {
+  background-color: #2764af;
+}
+
+banner {
+  grid-area: banner;
+  display: flex;
+}
+
+center {
+  grid-area: center;
+  display: flex;
+}
+
+cartao {
+  grid-area: cartao;
+  display: flex;
+}
+
+rodape {
+  grid-area: rodape;
+  display: flex;
+}
+
+social {
+  grid-area: social;
+  display: flex;
+}
+
+copyright {
+  grid-area: social;
+  display: flex;
+}
+
+@font-face {
+  font-family: "Thin";
+  src: url("../../fonts/Montserrat-Thin.ttf");
+}
+
+@font-face {
+  font-family: "ThinItalic";
+  src: url("../../fonts/Montserrat-ThinItalic.ttf");
+}
+
+@font-face {
+  font-family: "ExtraLight";
+  src: url("../../fonts/Montserrat-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "ExtraLightItalic";
+  src: url("../../fonts/Montserrat-ExtraLightItalic.ttf");
+}
+
+@font-face {
+  font-family: "Light";
+  src: url("../../fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: "LightItalic";
+  src: url("../../fonts/Montserrat-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: "Regular";
+  src: url("../../fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Medium";
+  src: url("../../fonts/Montserrat-Medium.ttf");
+}
+
+@font-face {
+  font-family: "MediumItalic";
+  src: url("../../fonts/Montserrat-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "SemiBold";
+  src: url("../../fonts/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "SemiBoldItalic";
+  src: url("../../fonts/Montserrat-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "Bold";
+  src: url("../../fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "BoldItalic";
+  src: url("../../fonts/Montserrat-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "ExtraBold";
+  src: url("../../fonts/Montserrat-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "ExtraBoldItalic";
+  src: url("../../fonts/Montserrat-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "Black";
+  src: url("../../fonts/Montserrat-Black.ttf");
+}
+
+@font-face {
+  font-family: "BlackItalic";
+  src: url("../../fonts/Montserrat-BlackItalic.ttf");
+}

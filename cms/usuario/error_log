@@ -1,0 +1,87 @@
+[18-Feb-2021 17:14:17 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 17:14:25 America/Sao_Paulo] PHP Notice:  Undefined variable: classe in /home/tchateau/novo.taciochateau.com.br/cms/usuario/index.php on line 126
+[18-Feb-2021 17:14:25 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 17:16:38 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 17:23:11 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:18:22 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:23:29 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[18-Feb-2021 18:23:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 92
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 95
+[19-Feb-2021 09:11:31 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:11:44 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:12:06 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:37 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:39 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:40 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:40 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:40 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:40 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:14:40 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:07 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:09 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:09 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:10 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:10 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:10 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:15 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:19 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:20 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:20 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:20 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:20 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:20 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:20 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:21 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:21 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:22 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:22 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:22 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:23 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:23 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:23 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:23 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:16:23 America/Sao_Paulo] PHP Catchable fatal error:  Object of class Empresa could not be converted to string in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 129
+[19-Feb-2021 09:18:27 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:18:27 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[19-Feb-2021 09:18:33 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 12:54:38 America/Sao_Paulo] PHP Notice:  Undefined offset: 3 in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesIdUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/header.php on line 5
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 91
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesEmpresaUsuario in /home/tchateau/novo.taciochateau.com.br/cms/usuario/editar.php on line 94
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesImagemUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 22
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesNomeUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 33
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoSistema in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrOperacaoUsuario in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/modelo/util/Util.php on line 203
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Notice:  Undefined index: sesArrModuloUsuario in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
+[22-Feb-2021 14:41:57 America/Sao_Paulo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/tchateau/novo.taciochateau.com.br/cms/assets/include/footer.php on line 56
