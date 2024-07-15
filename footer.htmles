@@ -1,0 +1,57 @@
+<head>
+  <link rel="stylesheet" href="../../../style/index.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+  <footer id="footer">
+    <div id="newsletter">
+      <h4>Receba nossas ofertas por email</h4>
+      <a class="footer_button">Quero Receber</a>
+    </div>
+    <div id="footer_nav">
+      <div class="col">
+        <h3>Somos novo</h3>
+        <a href="/ofertas">Ofertas</a>
+        <a href="/cartao-novo">NovoCard</a>
+        <a href="/cadastro">Meu cadastro</a>
+      </div>
+      <div class="col">
+        <h3>Institucional</h3>
+        <a href="/quem-somos">Quem somos</a>
+        <a href="/nossas-lojas">Nossas lojas</a>
+        <a href="/noticias">Noticias</a>
+      </div>
+      <div class="col">
+        <h3>Fale Conosco</h3>
+        <a href="/contato">Contato</a>
+        <a href="/cadastro">Trabalhe conosco</a>
+        <a href="/atendimento">Televendas atacado</a>
+      </div>
+    </div>
+    <div id="formas_pagamento">
+      <h4>Formas de pagamento</h4>
+      <img src="../../assets/img/formapagamento.png" alt="Imagem forma de pagamento" />
+    </div>
+    <div id="social">
+      <div id="social_icons">
+        <h4>Siga nossas redes sociais</h4>
+        <div id="icons">
+          <a href="/">
+            <img src="../../assets/icons/facebook_white.png" alt="" />
+          </a>
+          <a href="/">
+            <img src="../../assets/icons/instagram_white.png" alt="" />
+          </a>
+          <a href="/">
+            <img src="../../assets/icons/youtube_white.png" alt="" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="copyright">
+      <h4>Novo Atacarejo | Todos os direitos reservados</h4>
+      <img src="../../assets/logo/pulltech.png" alt="" />
+    </div>
+  </footer>
+</body>
